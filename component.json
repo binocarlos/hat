@@ -1,0 +1,19 @@
+{
+  "name": "node-hat",
+  "repo": "binocarlos/node-hat",
+  "description": "Component version of substack/node-hat",
+  "version": "0.0.1",
+  "keywords": [
+    
+  ],
+  "dependencies": {
+    
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "styles": [],
+  "scripts": [
+    "index.js"    
+  ]
+}
